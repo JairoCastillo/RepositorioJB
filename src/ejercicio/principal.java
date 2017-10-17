@@ -3,8 +3,6 @@ package ejercicio;
 public class principal {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		Jfame obj= new Jfame();
 	}
-
 }
