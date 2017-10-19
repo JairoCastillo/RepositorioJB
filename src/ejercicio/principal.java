@@ -1,8 +1,9 @@
 package ejercicio;
 
+
 public class principal {
 
 	public static void main(String[] args) {
-		Jfame obj= new Jfame();
+		ventana ventana=new ventana();
 	}
 }
